@@ -321,7 +321,7 @@ body {
 
 .head-logo, 
 .nav-menu, 
-.head-btn, 
+
 .burger-menu {
     opacity: 0; 
     animation: slideDown 0.8s ease-out forwards;
