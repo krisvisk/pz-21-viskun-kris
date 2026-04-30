@@ -340,7 +340,7 @@ body {
 .hero {
   color: white;
   height: 800px;
-      background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.6)), url("image/mainfoto.jpg"); 
+      background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.6)), url("../image/mainfoto.jpg"); 
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
